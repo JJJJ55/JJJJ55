@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=JinY%20Github!!)
 
 ## ✨ JinYoung's Github ✨
-#### 안녕하세요!! 열정 가득한 프론트엔드 개발 지망생 오진영입니다. 😎
+#### 안녕하세요! 열정 가득한 프론트엔드 개발 지망생 오진영입니다. 😎
 <br>
 
 ## 📞 Contact 📞
