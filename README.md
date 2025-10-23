@@ -10,9 +10,9 @@
 <a href="https://blog.naver.com/wlsdud6221"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a>
 
 ### 🛠 Skills
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,reactnative,vue)](https://github.com/JJJJ55)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,next,reactnative,vue)](https://github.com/JJJJ55)
 ### ⚙ Tools
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,vscode,git,jira,discord)](https://github.com/JJJJ55)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,vscode,git,jira,notion,discord)](https://github.com/JJJJ55)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=200&section=footer)
 </div>
